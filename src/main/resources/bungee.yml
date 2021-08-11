@@ -1,0 +1,3 @@
+name: MaSuiteCore
+version: ${project.version}
+main: com.redspeaks.masuitecore.MaSuiteCore
